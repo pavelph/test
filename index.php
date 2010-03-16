@@ -4,7 +4,7 @@
 	<title>jQuery Gradient Fade Demo</title>
  
 	<!-- Linked Files. -->
-	<script src="jquery/jquery.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/jquery/jquery.js" type="text/javascript" charset="utf-8"></script>
 	
 	<script type="text/javascript">
  
